@@ -21,20 +21,6 @@ Skills: Data extraction and processing, algorithm development and testing, paten
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Education Attainment
-
-- *2022.09 - 2025.06*, <a href="https://www.ysu.edu.cn/"><img class="svg" src="/images/Yanshan_University_LOGO.png" width="20pt"></a> School of Vehicles and Energy, Yanshan University, Hebei Qinhuangdao, Master's degree in Vehicle Engineering
-
-- *2016.09 - 2020.06*, <a href="https://www.hbu.cn/"><img class="svg" src="/images/Hebei_University_LOGO.png" width="20pt"></a> School of Quality Technology and Supervision, Hebei University, Hebei Baoding, Bachelor's degree in Mechanical Design and Manufacturing Automation
-
-<span class='anchor' id='-lwzl'></span>
-
-# 🔬 Papers
-
-I have published 1 academic paper (including co-authorships):
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVCI 2024</div><img src='images/po/autonomous_driving.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 - **"Autonomous Driving Test Scene Generation"**, CVCI 2024 Conference Proceedings.  
 [[Website]](https://www.cvci.org/proceedings/2024) [[Download]](https://github.com/LiangliangLi/Autonomous_Driving_Test_Scene_Generation)
