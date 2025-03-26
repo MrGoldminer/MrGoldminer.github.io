@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Quanjun Li"
+  name             : "Liangliang Li"
   avatar           : "images/lqj.png"
-  bio              : "Guangdong University of Technology"
-  location         : "Guangzhou"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Yanshan University"
+  location         : "Qinhuangdao"
+  employer         : #"the School of Vehicles and Energy"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EzQTGP8AAAAJ&view_op=list_works&gmla=AC6lMd9iOuh2NDOaN5RjpzOvidox1MdCxFjyFw2NCUEoDMGQRwg50LxTehzqeUb1OnyicQP5V2qxasMYHwP_coYJ9Y3-d_UHxQnaf9tlIg0"
-  email            : "3122008887@mail2.gdut.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  email            : "18534792564@163.com"
+  researchgate     : "https://www.nihao.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QuincyQAQ"
+  github           : "MrGoldminer"
   google_plus      :
   keybase          :
   instagram        :
