@@ -22,18 +22,12 @@ Skills: Data extraction and processing, algorithm development and testing, paten
 <span class='anchor' id='-xl'></span>
 
 
-- **"Autonomous Driving Test Scene Generation"**, CVCI 2024 Conference Proceedings.  
-[[Website]](https://www.cvci.org/proceedings/2024) [[Download]](https://github.com/LiangliangLi/Autonomous_Driving_Test_Scene_Generation)
-
-</div>
-</div>
-
 # 📝Invention Patent & Software Copyright
 
 ### Invention Patent
 ---
-- 李亮亮. 智能车身工艺与智能家具领域的发明专利（3件）. [[Website]](https://patentsearch.cnipa.gov.cn/)
-- 李亮亮. 回弹算法检测与智能车灯领域的发明专利（2件）. [[Website]](https://patentsearch.cnipa.gov.cn/)
+- 李亮亮. 智能车身工艺与智能家具领域的发明专利（3件）. 
+- 李亮亮. 回弹算法检测与智能车灯领域的发明专利（2件）. 
 
 ### Software Copyright
 ---
